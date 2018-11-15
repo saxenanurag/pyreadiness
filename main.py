@@ -28,7 +28,7 @@ MAJORS = {
     "3.5": Status(),
     "3.6": Status(),
     "3.7": Status(),
-    "3.8": Status(alpha=True),
+    "3.8": Status(),
 }
 
 QUERY = """
